@@ -24,6 +24,21 @@ Key business insights identified:
 - Customer Segmentation Analysis
 - Data Visualization
 
+## Key KPI Highlights
+
+| KPI | Value |
+|------|-------|
+| Total Orders | 99,441 |
+| Total Revenue | R$ 16,008,872 |
+| Average Review Score | 4.09 |
+| On-Time Delivery Rate | 90.4% |
+
+### Key Business Findings
+- 35.2% of customers are categorized as At-Risk customers
+- Top 10% sellers contribute 66.8% of total revenue
+- Deliveries delayed by 7+ days reduce review scores by approximately 2.6 points
+- Customer recency strongly correlates with reduced purchasing activity
+
 
 \## Project Overview
 
