@@ -14,6 +14,16 @@ Key business insights identified:
 
 ![Dashboard Preview](screenshots/final_dashboard.png)
 
+## Tech Stack
+
+- SQL (MySQL)
+- Tableau Public
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Business Intelligence & KPI Reporting
+- Customer Segmentation Analysis
+- Data Visualization
+
 
 \## Project Overview
 
