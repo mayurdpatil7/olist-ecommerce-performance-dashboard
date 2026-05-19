@@ -1,5 +1,15 @@
 # Olist E-Commerce Performance & Customer Analytics Dashboard 
 
+## Executive Summary
+
+Built an end-to-end SQL + Tableau analytics solution to analyze e-commerce delivery performance, customer satisfaction, seller quality, and customer purchasing behavior using the Olist Brazilian E-Commerce dataset.
+
+Key business insights identified:
+- Late deliveries significantly reduce customer review scores
+- A small percentage of sellers contribute majority revenue
+- High-recency customers represent potential recoverable revenue opportunities
+- Delivery performance strongly impacts customer satisfaction KPIs
+
 ## Dashboard Preview
 
 ![Dashboard Preview](screenshots/final_dashboard.png)
