@@ -1,7 +1,8 @@
-\# Olist E-Commerce Performance \& Customer Analytics Dashboard
+# Olist E-Commerce Performance & Customer Analytics Dashboard 
 
-!\[Dashboard Preview](screenshots/final\_dashboard.png)
+## Dashboard Preview
 
+![Dashboard Preview](screenshots/final_dashboard.png)
 
 
 \## Project Overview
