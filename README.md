@@ -34,9 +34,6 @@ Key analysis areas include:
 The final interactive Tableau dashboard simulates a real-world business intelligence solution used by e-commerce companies such as Flipkart, Amazon, or Meesho to monitor operational performance and customer behavior.
 
 
-
-\## Business Problem
-
 \## Business Problem
 
 
