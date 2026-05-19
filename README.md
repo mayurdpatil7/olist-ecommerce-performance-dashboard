@@ -309,7 +309,7 @@ Key Tableau features implemented:
 
 Tableau Public Dashboard:
 
-\[https://public.tableau.com/app/profile/mayur.patil7608/viz/OlistE-CommercePerformanceCustomerAnalyticsDashboard/Dashboard1]
+\https://public.tableau.com/app/profile/mayur.patil7608/viz/OlistE-CommercePerformanceCustomerAnalyticsDashboard/Dashboard1
 
 
 
